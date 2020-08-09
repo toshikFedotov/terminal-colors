@@ -1,0 +1,32 @@
+[legacy]
+new-tab-position='next'
+new-terminal-mode='tab'
+theme-variant='dark'
+
+[legacy/profiles:]
+default='a21ba46a-e148-4d72-a725-4c1463967155'
+list=['a21ba46a-e148-4d72-a725-4c1463967155']
+
+[legacy/profiles:/:a21ba46a-e148-4d72-a725-4c1463967155]
+allow-bold=true
+background-color='#0D0D10101B1B'
+bold-color='rgb(0,203,255)'
+bold-color-same-as-fg=false
+bold-is-bright=false
+cursor-background-color='rgb(0,4,13)'
+cursor-colors-set=false
+cursor-foreground-color='rgb(3,190,0)'
+font='Noto Mono 14'
+foreground-color='#EBEBEEEEF9F9'
+highlight-background-color='#'
+highlight-colors-set=true
+highlight-foreground-color='#'
+login-shell=false
+palette=['rgb(24,1,1)', 'rgb(187,79,108)', 'rgb(57,197,42)', 'rgb(198,94,61)', 'rgb(255,219,0)', 'rgb(47,114,250)', 'rgb(141,132,198)', 'rgb(98,112,164)', 'rgb(31,34,45)', 'rgb(238,130,159)', 'rgb(165,255,225)', 'rgb(249,145,112)', 'rgb(139,233,253)', 'rgb(151,187,247)', 'rgb(192,183,249)', 'rgb(255,255,255)']
+scroll-on-output=false
+use-system-font=false
+use-theme-background=false
+use-theme-colors=false
+use-theme-transparency=false
+use-transparent-background=false
+visible-name='Tzuyu'
